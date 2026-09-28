@@ -1,0 +1,5 @@
+FROM apurvsg/robin:latest
+
+RUN pip install --no-cache-dir psycopg2-binary==2.9.13
+
+COPY intelligence_db.py /app/intelligence_db.py

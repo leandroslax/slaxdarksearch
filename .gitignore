@@ -1,0 +1,9 @@
+
+# SLAX DarkSearch - local/private files
+.env
+*.before_*
+*.backup
+*.original
+__pycache__/
+*.pyc
+investigations/
