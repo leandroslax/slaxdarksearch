@@ -39,6 +39,16 @@ SLAX DarkSearch extends the open-source **Robin** project with an additional int
 
 ---
 
+## User Interface
+
+The SLAX DarkSearch web interface provides a centralized environment for Dark Web OSINT investigations, including search execution, LLM selection, scraping configuration and operational monitoring.
+
+<p align="center">
+  <img src="./screen.png" width="100%" alt="SLAX DarkSearch Web Interface">
+</p>
+
+---
+
 ## Architecture
 
 ```text
